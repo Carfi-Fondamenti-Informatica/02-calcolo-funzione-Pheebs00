@@ -12,7 +12,7 @@ int main(){
     }
     else {
         z = a*b+b*y*y;
-        cout << "\nz = " << z << endl;
+        cout <<"\nz="<<z<< endl;
     }
     return 0;
 }
