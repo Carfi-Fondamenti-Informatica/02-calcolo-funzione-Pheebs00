@@ -11,7 +11,7 @@ int main(){
     }
     else {
         z = a*b+b*y*y;
-        cout << "z=" << z << endl;
+        cout << z << endl;
     }
     return 0;
 }
